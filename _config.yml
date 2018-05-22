@@ -1,0 +1,9 @@
+title: Innova5
+
+description: >
+    We have expertise in IoT, Bid-data and HPC technologies and can help with to find the best solution to your problem.
+
+theme: minima
+
+plugins:
+  - jekyll-redirect-from
