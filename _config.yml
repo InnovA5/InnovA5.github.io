@@ -5,5 +5,3 @@ description: >
 
 theme: minima
 
-plugins:
-  - jekyll-redirect-from
